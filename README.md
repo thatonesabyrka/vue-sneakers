@@ -6,7 +6,7 @@ This template should help get you started developing with Vue 3 in Vite.
 asa
 ## Recommended Browser Setupasas
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
+- Chromium-based browsers (Chrome, Edge, Brave, etc.):фыфы
   - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
   - [Turn on Custom Object Formatter in Firefox DevTools](https://fыффыxdx.dev/firefox-devtools-custom-object-formatters/)
 фывфывыыы
