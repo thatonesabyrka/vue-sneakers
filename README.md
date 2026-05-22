@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 in Vite.
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 asa
 ## Recommended Browser Setupasas
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)фывфыв
   - [Turn on Custom Object Formatter in Firefox DevTools](https://fыффыxdx.dev/firefox-devtools-custom-object-formatters/)
 фывфывыыы
 ## Type Support for `.vue` Imports in TS
