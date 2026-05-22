@@ -13,7 +13,7 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 ## Customize configuration
 asaфвыфывфывфыв
 See [Vite Configuration Reference](https://vite.dev/config/).ыыы
-## Project Setup
+## Project Setupыыы
 ```sh
 npm install
 ```
