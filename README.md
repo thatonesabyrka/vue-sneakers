@@ -15,7 +15,7 @@ asaфвыфывфывфыв
 See [Vite Configuration Reference](https://vite.dev/config/).ыыыфыыф
 ## Project Setupыыыфыыфы
 ```sh
-npm install
+npm installфывфывф
 ```
 ### Compile and Hot-Reload for Developmentasa
 
