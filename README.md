@@ -21,7 +21,7 @@ npm install
 
 ```sh
 npm run dev
-```ыфвфвф
+```ыфвфвффыфыф
 ### Type-Check, Compile and Minify for Production
 ```sh
 npm run build
